@@ -3,3 +3,4 @@ package-lock.json
 coverage
 .env
 .test.env
+aws
